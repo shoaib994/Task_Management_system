@@ -1,20 +1,20 @@
-Developed BY
-Shoaib Ahmad
+Tools:
+Frontend:
+-- React JS
 
-How to run project:
--------------------------------------------------------------------------------------
-frontend (React JS)
-need to run:
+Backend API:
+-- Node JS
+-- Express JS
+
+TO start frontend (React JS)
+
+To start frontend code just run:
 -- npm install
 then 
 -- npm start
 
 server will run 3000 port
------------------------------------------------------------
----------------------------
-Attached video demo 
-https://drive.google.com/file/d/1UpFzfjmremC-GxhdjCp-UiPXf4u4nUIU/view?usp=sharing
---------------------------
+-------------------------------------------------------------------------------------
 
 
 what I have completed in this project
@@ -32,7 +32,18 @@ what I have completed in this project
 11.Redux & redux toolkit (State Management)
 12. implement backend API's in Node JS (because I was not able to find to Mock API according to project That;s reason I implement my own API's in Node js. Please accept it)
 
------------------------------------------------------------
+--------------------------------------------------------------------------------------
+Attached video demo 
+https://drive.google.com/file/d/1UpFzfjmremC-GxhdjCp-UiPXf4u4nUIU/view?usp=sharing
 
+Live URL:
+https://react-test-orpin.vercel.app/
 
+Login Credential:
+username: a
+password: a
 
+or you can create new account by signup on link
+
+Backend API route:
+https://task-backent-api.onrender.com/api/v1
